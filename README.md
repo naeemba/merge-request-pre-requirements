@@ -4,7 +4,7 @@ As we are using [React](https://github.com/facebook/react), [Material-ui](https:
 
 ### JavaScript
 1. Avoiding console.log
-2. Using // @flow on top of every file
+2. Using `// @flow` on top of every file
 3. Avoiding eslint errors
 4. Each component file's name should start with an uppercase letter and the other files should start with a lowercase letter.
 5. Each component file should have a component with the same name as the file inside it.
