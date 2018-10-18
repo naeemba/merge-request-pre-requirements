@@ -1,3 +1,3 @@
 ### Merge requests pre requirements
-Actually I was thinking about some rules that we may consider before submitting any merge requests. And there is a very good repo which is similar to what I want to create here, but we have some different rules, and I want to create this repo just as a sample so you may use some parts of it.
-https://github.com/elsewhencode/project-guidelines
+Actually I was thinking about some rules that we may consider before submitting any merge requests. And there is a very good [repo](https://github.com/elsewhencode/project-guidelines) which is similar to what I want to create here, but we have some different rules, and I want to create this repo just as a sample so you may use some parts of it.
+As we are using [React](https://github.com/facebook/react), [Material-ui](https://github.com/mui-org/material-ui), [JSS styles] (https://github.com/cssinjs/jss) these rules are related to these projects. We are also using [eslint](https://github.com/eslint/eslint) and [flow](https://github.com/facebook/flow).
