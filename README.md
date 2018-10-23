@@ -17,4 +17,4 @@ As we are using [React](https://github.com/facebook/react), [Material-ui](https:
 3. Avoiding hard-coded colors in styles (using theme object introduced by material-ui)
 
 ### Git
-1. Commit messages should be simple and start with module name and a description of what you did on that module i.e. (Customers: adding notifications on create and update)
+1. Commit messages should be simple and start with module name and a description of what you did on that module e.g. (Customers: adding notifications on create and update)
