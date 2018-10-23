@@ -18,3 +18,4 @@ As we are using [React](https://github.com/facebook/react), [Material-ui](https:
 
 ### Git
 1. Commit messages should be simple and start with module name and a description of what you did on that module e.g. (Customers: adding notifications on create and update)
+2. Avoid using general commit messages like bug fix, improvement, refactoring etc.
