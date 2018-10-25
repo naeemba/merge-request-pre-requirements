@@ -15,6 +15,7 @@ As we are using [React](https://github.com/facebook/react), [Material-ui](https:
 1. Avoiding inline styles in html parts.
 2. Avoiding hard-coded numbers for width, height, padding, etc. (using theme object introduced by material-ui)
 3. Avoiding hard-coded colors in styles (using theme object introduced by material-ui)
+4. Avoiding float: left|right (use flexbox or grid instead)
 
 ### Git
 1. Commit messages should be simple and start with module name and a description of what you did on that module e.g. (Customers: adding notifications on create and update)
