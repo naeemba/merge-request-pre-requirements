@@ -10,6 +10,7 @@ As we are using [React](https://github.com/facebook/react), [Material-ui](https:
 5. Each component file should have a component with the same name as the file inside it.
 6. No hard-coded text in files, (should use resources files)
 7. Avoiding formatting numbers or dates or any mathematical calculations using moment or any other library (should use the related util)
+8. Instead of using `moment` or `mathjs` or similar libraries directly, use their related util file, so whenever we want we can change the library simply.
 
 ### JSS or CSS in JS
 1. Avoiding inline styles in html parts.
